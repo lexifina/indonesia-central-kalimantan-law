@@ -1,0 +1,3 @@
+# Pasal 37
+(1) RKA-SKPD sebagaimana dimaksud dalam Pasal 36 ayat (1), memuat rencana pendapatan, rencana belanja untuk masing-masing program dan kegiatan serta rencana pembiayaan untuk tahun yang direncanakan, dirinci sampai dengan rincian objek pendapatan, belanja, dan pembiayaan, serta prakiraan maju untuk tahun berikutnya.
+(2) Penyusunan RKA-SKPD dengan pendekatan kerangka pengeluaran jangka menengah dilaksanakan dengan menyusun prakiraan maju yang berisi perkiraan kebutuhan anggaran untuk program dan kegiatan yang direncanakan dalam tahun anggaran berikutnya dari tahun anggaran yang direncanakan dan merupakan implikasi kebutuhan dana untuk pelaksanaan program dan kegiatan tersebut pada tahun berikutnya.

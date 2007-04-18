@@ -1,0 +1,7 @@
+# Pasal 42
+(1) Rancangan Peraturan Daerah tentang APBD yang telah disetujui bersama dan rancangan Peraturan Gubernur tentang Penjabaran APBD sebagaimana dimaksud dalam Pasal 41, sebelum ditetapkan 
+oleh Gubernur paling lambat 3 (tiga) hari disampaikan kepada Menteri Dalam Negeri untuk dievaluasi.
+(2) Hasil evaluasi sebagaimana dimaksud pada ayat (1) disampaikan oleh Menteri Dalam Negeri kepada Gubernur selambat-lambatnya 15 (lima belas) hari terhitung sejak diterimanya rancangan dimaksud.
+(3) Apabila Menteri Dalam Negeri tidak memberikan hasil evaluasi dalam waktu 15 (lima belas) hari terhitung sejak rancangan diterima sebagaimana dimaksud pada ayat (2), maka Gubenur dapat menetapkan rancangan peraturan daerah tentang APBD menjadi peraturan daerah tentang APBD dan rancangan peraturan gubernur tentang penjabaran APBD menjadi peraturan gubernur tentang penjabaran APBD.
+(4) Apabila Menteri Dalam Negeri menyatakan hasil evaluasi rancangan Peraturan Daerah tentang APBD dan rancangan Peraturan Gubernur tentang Penjabaran APBD sudah sesuai dengan kepentingan umum dan peraturan perundang-undangan yang lebih tinggi, Gubernur menetapkan rancangan dimaksud menjadi Peraturan Daerah dan Peraturan Gubernur.
+(5) Gubernur menyampaikan peraturan daerah tentang APBD dan peraturan Gubernur tentang penjabaran APBD kepada Menteri Dalam Negeri selambat-lambatnya 7 (tujuh) hari kerja setelah ditetapkan.

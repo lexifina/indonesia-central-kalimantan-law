@@ -1,0 +1,5 @@
+# Pasal 27
+(1) Belanja daerah sebagaimana dimaksud dalam Pasal 20 ayat (1) huruf b dipergunakan dalam rangka pelaksanaan urusan pemerintahan yang menjadi kewenangan provinsi yang terdiri dari urusan wajib dan urusan pilihan yang ditetapkan dengan ketentuan perundang-undangan.
+(2) Belanja penyelenggaraan urusan wajib sebagaimana dimaksud pada ayat (1) diprioritaskan untuk melindungi dan meningkatkan kualitas kehidupan masyarakat dalam upaya memenuhi kewajiban daerah yang diwujudkan dalam bentuk peningkatan pelayanan dasar, pendidikan, kesehatan, fasilitas sosial dan fasilitas umum yang layak serta mengembangkan sistem jaminan sosial.
+(3) Penyelenggaran urusan yang bersifat pilihan sebagaimana dimaksud pada ayat (1) meliputi urusan pemerintahan yang secara nyata ada dan berpotensi untuk meningkatkan kesejahteraan masyarakat sesuai dengan kondisi, kekhasan, dan potensi keunggulan daerah.
+(4) Peningkatan kualitas kehidupan masyarakat sebagaimana dimaksud pada ayat (2) diwujudkan melalui prestasi kerja dalam pencapaian standar pelayanan minimal berdasarkan urusan wajib pemerintahan daerah sesuai dengan peraturan perundang-undangan.

@@ -1,0 +1,4 @@
+# Pasal 126
+(1) Kerugian daerah wajib dilaporkan oleh atasan langsung atau kepala SKPD kepada Gubernur selambat-lambatnya 7 (tujuh) hari kerja setelah kerugian daerah itu diketahui.
+(2) Segera setelah kerugian daerah tersebut diketahui, kepada bendahara, pegawai negeri bukan bendahara, atau pejabat lain yang nyata-nyata melanggar hukum atau melalaikan kewajibannya sebagaimana dimaksud dalam Pasal 125 ayat (2) segera dimintakan surat pernyataan kesanggupan dan / atau pengakuan bahwa kerugian tersebut menjadi tanggung jawabnya dan bersedia mengganti kerugian daerah dimaksud, dalam bentuk Surat Keterangan Tanggung Jawab Mutlak (SKTJM).
+(3) Jika SKTJM tidak mungkin diperoleh atau tidak dapat menjamin pengembalian kerugian daerah, maka Gubernur segera mengeluarkan keputusan pembebanan penggantian kerugian sementara kepada yang bersangkutan.
