@@ -1,0 +1,3 @@
+# Pasal 32
+(1) Wajib Pajak yang karena kealpaannya tidak menyampaikan SPTPD atau mengisi dengan tidak benar atau tidak lengkap atau melampirkan keterangan yang tidak benar sehingga merugikan keuangan Daerah dapat dipidana dengan pidana kurungan paling lama 3 (tiga) bulan dan atau denda paling banyak Rp.25.000.000,00 (dua puluh lima juta rupiah).
+(2) Wajib Pajak yang dengan sengaja tidak menyampaikan SPTPD atau mengisi dengan tidak benar atau tidak lengkap atau melampirkan keterangan yang tidak benar sehingga merugikan keuangan daerah dapat dipidana dengan pidana kurungan paling lama 6 (enam) bulan dan atau denda paling banyak Rp.50.000.000,00 (lima puluh juta rupiah).
