@@ -1,0 +1,3 @@
+# Pasal 37
+Dengan nama PAP, dipungut pajak atas setiap pengambilan dan/atau pemanfaatan air permukaan di Daerah.
+Pasal…
