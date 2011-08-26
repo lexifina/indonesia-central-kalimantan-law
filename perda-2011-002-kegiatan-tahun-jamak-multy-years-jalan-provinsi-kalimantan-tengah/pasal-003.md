@@ -1,0 +1,5 @@
+# Pasal 3
+(1) Kegiatan Tahun Jamak (Multy Years) Jalan yang dianggarkan untuk tahun 2011 - 2014 adalah sebagai berikut :
+a. Peningkatan Jalan Bagendang - Samuda b. Peningkatan Jalan Samuda – Ujung Pandaran 1 c. Peningkatan Jalan Samuda – Ujung Pandaran 2 d. Peningkatan Jalan Samuda – Ujung Pandaran 3 e. Peningkatan Jalan SP. Penopa – Riam Durian 1 f. Peningkatan Jalan SP. Penopa – Riam Durian 2 g. Peningkatan Jalan Riam Durian – Sukamara 1 h. Peningkatan Jalan Riam Durian – Sukamara 2 i. Peningkatan Jalan Lungkuh Layang Batas Kapuas j. Peningkatan Jalan Batas Kapuas – Kalahien 1 k. Peningkatan Jalan Batas Kapuas – Kalahien 2 l. Peningkatan Jalan Patung – Hayaping – Bentot 1 m. Peningkatan Jalan Patung – Hayaping – Bentot 2 n. Peningkatan Jalan Pasar Panas – Bentot 1 o. Peningkatan Jalan Pasar Panas – Bentot 2 p. Pengawasan Supervisi (2) Segmen Fungsional pada ruas jalan sebagaimana dimaksud pada ayat (1) bila kondisi kritis, dapat menggunakan Anggaran diluar Kegiatan sesuai peraturan perundang-undangan.
+BAB IV
+WAKTU PELAKSANAAN
