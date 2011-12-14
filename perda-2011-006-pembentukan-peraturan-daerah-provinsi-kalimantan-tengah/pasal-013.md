@@ -1,0 +1,3 @@
+# Pasal 13
+(1) Konsep pembentukan rancangan Prolegda yang telah memperoleh keharmonisan, kebulatan, dan kemantapan sebagaimana dimaksud dalam Pasal 10, oleh Biro Hukum wajib dimintakan persetujuan secara tertulis terlebih dahulu kepada Gubernur sebelum dikoordinasikan dengan DPRD.
+(2) Dalam hal Gubernur memandang perlu untuk mendapatkan kejelasan lebih lanjut dan/atau memberikan arahan terhadap konsep pembentukan rancangan Prolegda, Gubernur menugaskan Biro Hukum untuk mengkoordinasikan kembali konsep pembentukan rancangan Prolegda tersebut dengan SKPD lain dan Pimpinan instansi Pemerintah terkait lainnya,
