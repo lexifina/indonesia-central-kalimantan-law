@@ -1,0 +1,7 @@
+# Pasal 10
+(1) Pelaksana TSLP terdiri dari :
+a. Badan usaha yang berstatus badan hukum yaitu Perseroan Terbatas, yayasan dan koperasi; dan b. Badan usaha yang tidak berstatus badan hukum yaitu Firma (Fa) dan Perseroan Komanditer (CV); dan (2) Perusahaan sebagaimana dimaksud pada ayat (1) berstatus pusat, cabang atau unit pelaksana yang berkedudukan dalam wilayah Kalimantan Tengah.
+(3) Perusahaan yang tidak termasuk dalam ayat (1) dan/atau perorangan yang menjalankan usaha di bidang dan/atau yang berkaitan langsung dengan sumber daya alam dan/atau lingkungan hidup berdasarkan ukuran usaha, cakupan pemangku kepentingan dan sektor usahanya, dipersamakan dengan Perseroan Terbatas yang diwajibkan melaksanakan TSLP di wilayah Kalimantan Tengah.
+(4) Pelaksana TSLP sebagaimana dimaksud pada Ayat (1) dan Ayat (3) adalah semua Perusahaan dan/atau Perorangan yang menjalankan kegiatan usahanya di bidang dan/atau berkaitan dengan sumber daya alam.
+(5) Pelaksana TSLP sebagaimana dimaksud pada Ayat (1) dan Ayat (3) yang tidak menjalankan kegiatan usahanya di bidang dan/atau berkaitan dengan sumber daya alam, namun memiliki ukuran usaha dengan modal dasar dan/atau modal yang dapat dipersamakan dengan itu sekurang-kurangnya sebesar Rp 10.000.000.000,00 (Sepuluh Milyar Rupiah) tetap wajib menjalankan Program TSLP.
+(6) Perusahaan pelaksana TSLP tidak dibedakan antara perusahaan milik swasta maupun milik negara dan/atau milik pemerintah daerah, baik yang menghasilkan barang maupun jasa.
