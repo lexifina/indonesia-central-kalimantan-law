@@ -1,0 +1,3 @@
+# Pasal II
+Peraturan Daerah ini mulai berlaku pada tanggal diundangkan dan pelaksanaan penarikan aset berdasarkan peraturan daerah ini dilakukan paling lambat tanggal 30 Juni 2013.
+Agar setiap ...
