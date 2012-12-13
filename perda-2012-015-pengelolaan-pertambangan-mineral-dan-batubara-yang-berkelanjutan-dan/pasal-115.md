@@ -1,0 +1,2 @@
+# Pasal 115
+Setiap orang atau pemegang IUP Operasi Produksi atau IUPK Operasi Produksi yang menampung, memanfaatkan, melakukan pengolahan dan pemurnian, pengangkutan, penjualan mineral dan batubara yang bukan dari pemegang IUP, IUPK, atau izin sebagaimana dimaksud dalam Pasal 25, Pasal 28 ayat (3) dipidana penjara paling lama 10 (sepuluh) tahun dan denda paling banyak Rp.10.000.000.000,00 (sepuluh milyar rupiah).
