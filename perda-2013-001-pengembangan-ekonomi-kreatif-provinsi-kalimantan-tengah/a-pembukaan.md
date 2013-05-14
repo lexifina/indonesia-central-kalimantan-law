@@ -1,0 +1,35 @@
+# Pembukaan
+PERATURAN DAERAH PROVINSI KALIMANTAN TENGAH NOMOR 1 TAHUN 2013 TENTANG PENGEMBANGAN EKONOMI KREATIF PROVINSI KALIMANTAN TENGAH
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+GUBERNUR KALIMANTAN TENGAH,
+Menimbang : a. bahwa Ekonomi Kreatif di Provinsi Kalimantan Tengah sebagai salah satu kegiatan ekonomi memiliki arti penting dan kedudukan yang strategis dalam menopang ketahanan ekonomi masyarakat, memajukan pembangunan, mewujudkan pertumbuhan ekonomi dan sebagai wahana penciptaan lapangan kerja;
+b. bahwa potensi Ekonomi Kreatif yang ada di Provinsi Kalimantan Tengah belum dikembangkan secara optimal sehingga belum memberikan manfaat bagi kesejahteraan masyarakat di Provinsi Kalimantan Tengah;
+c. bahwa Sektor Usaha Kreatif perlu didukung melalui upaya pengembangan Ekonomi Kreatif dan pemberdayaan Usaha Kreatif untuk meningkatkan kemampuan di bidang manajemen, permodalan, teknologi, jiwa kreatif dan kemampuan berkompetisi;
+d. bahwa dalam usaha meningkatkan kesejahteraan dan ketahanan ekonomi rakyat, maka Ekonomi Kreatif sebagai salah satu kegiatan ekonomi di Provinsi Kalimantan Tengah perlu dikembangkan;
+e. bahwa berdasarkan pertimbangan sebagaiman dimaksud huruf a, huruf b, huruf c dan huruf d perlu menetapkan Peraturan Daerah Provinsi Kalimatan Tengah tentang Pengembangan Ekonomi Kreatif.
+Mengingat : 1. Undang-Undang Nomor 21 Tahun 1958 tentang Penetapan Undang-Undang Darurat Nomor 10 Tahun 1957 tentang Pembentukan Daerah Swatantra Tingkat I Kalimantan Tengah dan Perubahan Undang-Undang Nomor 25 Tahun 1956 tentang Pembentukan Daerah-Daerah Swatantra Tingkat I Kalimantan Barat, Kalimantan Selatan, dan Kalimantan Timur (Lembaran Negara Republik Indonesia Tahun 1957 Nomor 53, Tambahan Lembaran Negara Republik Indonesia Republik Indonesia Nomor 1284) Sebagai Undang-Undang (Lembaran Negara Republik Indonesia Republik Indonesia Tahun 1958 Nomor 62, Tambahan Lembaran Negara Republik Indonesia Republik Indonesia Nomor 1622);
+2. Undang-Undang Nomor 7 Tahun 1992 tentang Perbankan (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 31, Tambahan Lembaran Negara Republik Indonesia Nomor 3472) sebagaimana telah diubah dengan Undang-Undang Nomor 10 Tahun 1998 tentang Perubahan Atas Undang-Undang Nomor 7 Tahun 1992 tentang Perbankan (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 182, Tambahan Lembaran Negara Republik Indonesia Nomor 3790);
+3. Undang-Undang Nomor 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 33, Tambahan Lembaran Negara Republik Indonesia Nomor 3818);
+4. Undang-Undang Nomor 14 Tahun 2001 tentang Paten (Lembaran Negara Republik Indonesia Tahun 2001 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4130);
+5. Undang-Undang Nomor 15 Tahun 2001 tentang Merek (Lembaran Negara Republik Indonesia Tahun 2001 Nomor 110, Tambahan Lembaran Negara Republik Indonesia Nomor 4131);
+6. Undang-Undang Nomor 19 Tahun 2002 tentang Hak Cipta (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 85, Tambahan Lembaran Negara Republik Indonesia Nomor 4220);
+7. Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 125, Tambahan Lembaran Negara Republik Indonesia Nomor 4437) sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 12 Tahun 2008 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 59, Tambahan Lembaran Negara Republik Indonesia Nomor 4844);
+8. Undang-Undang Nomor 20 Tahun 2008 tentang Usaha Mikro, Kecil dan Menengah (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 93, Tambahan Lembaran Negara Republik Indonesia Nomor 4866);
+9. Undang-Undang Nomor 10 Tahun 2009 tentang Kepariwisataan (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 53, Tambahan Lembaran Negara Republik Indonesia Nomor 4389);
+10. Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-Undangan (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 53, Tambahan Lembaran Negara Republik Indonesia Nomor 4389);
+11. Undang-Undang Nomor 17 Tahun 2012 tentang Perkoperasian, (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 212, Tambahan Lembaran Negara Republik Indonesia Nomor 5316);
+12. Peraturan Pemerintah Nomor 9 Tahun 1995 tentang Pelaksanaan Kegiatan Usaha Simpan Pinjam Oleh Koperasi (Lembaran Negara Republik Indonesia Tahun 1995 Nomor 19, Tambahan Lembaran Negara Republik Indonesia Nomor 3591);
+13. Peraturan Pemerintah Nomor 13 Tahun 1995 tentang Izin Usaha Industri ( Lembaran Negara Republik Indonesia Tahun 1995 Nomor 25, Tambahan Lembaran Negara Republik Indonesia Nomor 3596);
+14. Peraturan Pemerintah Nomor 44 Tahun1997 tentang Kemitraan (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 91, Tambahan Lembaran Negara Republik Indonesia Nomor 3718);
+15. Peraturan Pemerintah Nomor 32 Tahun 1998 tentang Pembinaan dan Pengembangan Usaha Kecil ( Lembaran Negara Republik Indonesia Tahun 1998 Nomor 46, Tambahan Lembaran Negara Republik Indonesia Nomor 3743);
+16. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang Pembagian Urusan Pemerintahan Antara Pemerintah, Pemerintahan Daerah Provinsi dan Pemerintahan Daerah Kabupaten/ Kota (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor 4737);
+17. Peraturan Presiden Nomor 28 Tahun 2008 Tentang Kebijakan Industri Nasional;
+18. Peraturan Daerah Provinsi Kalimantan Tengah Nomor 1 Tahun 2008 tentang Urusan Pemerintahan Daerah Yang Menjadi Kewenangan Provinsi Kalimantan Tengah (Lembaran Daerah Provinsi Kalimantan Tengah Tahun 2008 Nomor 1, Tambahan Lembaran Daerah Provinsi Kalimantan Tengah Nomor 1);
+19. Peraturan Daerah Provinsi Kalimantan Tengah Nomor 6 Tahun 2008 tentang Organisasi dan Tata Kerja Dinas Daerah Provinsi Kalimantan Tengah (Lembaran Daerah Provinsi Kalimantan Tengah Tahun 2008 Nomor 6, Tambahan Lembaran Daerah Provinsi Kalimantan Tengah Nomor 14) sebagaimana telah diubah dengan Peraturan Daerah Provinsi Kalimantan Tengah Nomor 3 Tahun 2012 tentang Perubahan Atas Peraturan Daerah Provinsi Kalimantan Tengah Nomor 6 Tahun 2008 tentang Organisasi dan Tata Kerja Dinas Daerah Provinsi Kalimantan Tengah (Lembaran Daerah Provinsi Kalimantan Tengah Tahun 2012 Nomor 3, Tambahan Lembaran Daerah Provinsi Kalimantan Tengah Nomor 45);
+20. Peraturan Daerah Provinsi Kalimantan Tengah Nomor 15 Tahun 2008 tentang Pemberdayaan Koperasi, Usaha Mikro, Kecil dan Menengah (Lembaran Daerah Provinsi Kalimantan Tengah Tahun 2008 Nomor 15 dan Tambahan Lembaran Daerah Provinsi Kalimantan Tengah Nomor 23);
+21. Peraturan Daerah Provinsi Kalimantan Tengah Nomor 11 Tahun 2012 tentang Tanggung Jawab Sosial dan Lingkungan Perusahaan (Lembaran Daerah Provinsi Kalimantan Tengah Tahun 2012 Nomor 12, Tambahan Lembaran Daerah Provinsi Kalimantan Tengah Nomor 54);
+Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH PROVINSI KALIMANTAN TENGAH dan GUBERNUR KALIMANTAN TENGAH
+MEMUTUSKAN:
+Menetapkan : PERATURAN DAERAH TENTANG PENGEMBANGAN EKONOMI KREATIF.
+BAB I
+KETENTUAN UMUM
