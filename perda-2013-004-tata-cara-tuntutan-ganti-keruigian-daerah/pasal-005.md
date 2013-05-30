@@ -1,0 +1,4 @@
+# Pasal 5
+(1) Setiap pejabat yang karena jabatannya mengetahui bahwa Daerah dirugikan atau terdapat sangkaan atau dugaan akan dirugikan karena sesuatu perbuatan melanggar hukum atau melalaikan kewajiban atau tidak melaksanakan kewajiban sebagaimana mestinya sehingga mengakibatkan kerugian bagi Daerah wajib melaporkan kepada Gubernur paling lambat 7 (tujuh) hari kerja setelah diketahuinya kejadian.
+(2) Gubernur setelah memperoleh laporan sebagaimana dimaksud pada ayat (1), wajib segera menugaskan Inspektorat Provinsi untuk melakukan pemeriksaan terhadap kebenaran laporan dan melakukan tindakan dalam rangka pengamanan maupun upaya pengembalian Kerugian Daerah, selanjutnya apabila terbukti terjadi kerugian daerah, ditindaklanjuti oleh Majelis Pertimbangan.
+(3) Pemeriksaan atas dugaan atau sangkaan Kerugian Daerah sebagaimana dimaksud pada ayat (2), harus didasarkan pada kenyataan sebenarnya dan jumlah kerugian Daerah yang pasti.
