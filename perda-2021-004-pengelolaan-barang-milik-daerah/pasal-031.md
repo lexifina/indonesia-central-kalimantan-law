@@ -1,0 +1,7 @@
+# Pasal 31
+(1) Penetapan status penggunaan barang milik daerah berupa tanah dan/atau bangunan dilakukan dengan ketentuan bahwa tanah dan/atau bangunan tersebut diperlukan untuk kepentingan penyelenggaraan tugas dan fungsi Pengguna Barang dan/atau Kuasa Pengguna Barang yang bersangkutan.
+(2) Pengguna Barang wajib menyerahkan barang milik daerah berupa tanah dan/atau bangunan sebagaimana dimaksud pada ayat (1) yang tidak digunakan dalam penyelenggaraan tugas dan fungsi Pengguna Barang kepada Gubernur melalui Pengelola Barang.
+(3) Barang milik daerah yang telah ditetapkan status penggunaannya pada Pengguna Barang dapat digunakan sementara oleh Pengguna Barang lainnya dalam jangka waktu tertentu tanpa harus mengubah status penggunaan barang milik daerah tersebut setelah terlebih dahulu mendapatkan persetujuan Gubernur.
+(4) Dikecualikan dari ketentuan sebagaimana dimaksud pada ayat (2), apabila tanah dan/atau bangunan sebagaimana dimaksud pada ayat (2) telah direncanakan untuk digunakan atau dimanfaatkan dalam jangka waktu tertentu yang ditetapkan oleh Gubernur.
+(5) Gubernur mencabut status penggunaan atas barang milik daerah berupa tanah dan/atau bangunan yang tidak digunakan dalam penyelenggaraan tugas dan fungsi Pengguna Barang sebagaimana dimaksud pada ayat (2).
+(6) Dalam hal barang milik daerah berupa tanah dan/atau bangunan sebagaimana dimaksud pada ayat (2) tidak diserahkan kepada Gubernur, Pengguna Barang dikenakan sanksi berupa pembekuan dana pemeliharaan atas barang milik daerah berkenaan.
