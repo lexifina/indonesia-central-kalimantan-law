@@ -1,0 +1,8 @@
+{
+  "path": "id-kt",
+  "code": "ID-KT",
+  "name": "Central Kalimantan (Indonesia)",
+  "level": "country",
+  "repo": "https://github.com/lexifina/indonesia-central-kalimantan-law",
+  "build": "built: Peraturan Daerah (Perda) of Provinsi Kalimantan Tengah as enacted, Indonesian text, from JDIH Provinsi Kalimantan Tengah (Biro Hukum Sekretariat Daerah Provinsi Kalimantan Tengah)"
+}
