@@ -1,0 +1,49 @@
+{
+ "parts": {
+  "20-perda-01.json": {
+   "acts": [
+    "perda-2007-001-pokok-pokok-pengelolaan-keuangan-daerah",
+    "perda-2007-002-perubahan-atas-peraturan-daerah-provinsi-kalimantan-tengah-nomor-8",
+    "perda-2007-006-bea-balik-nama-kendaraan-bermotor",
+    "perda-2008-001-urusan-pemerintahan-daerah-yang-menjadi-kewenangan-provinsi",
+    "perda-2008-003-pencabutan-peraturan-daerah-provinsi-kalimantan-tengah-nomor-4-tahun",
+    "perda-2008-004-pencabutan-peraturan-daerah-provinsi-kalimantan-tengah-nomor-11-tahun",
+    "perda-2010-001-perubahan-atas-peraturan-daerah-provinsi-kalimantan-tengah-nomor-16",
+    "perda-2010-007-pajak-daerah",
+    "perda-2010-011-pembentukan-dana-cadangan-daerah-untuk-membiayai-penyelenggaraan",
+    "perda-2011-002-kegiatan-tahun-jamak-multy-years-jalan-provinsi-kalimantan-tengah",
+    "perda-2011-006-pembentukan-peraturan-daerah-provinsi-kalimantan-tengah",
+    "perda-2012-010-penyelenggaran-pendidikan",
+    "perda-2012-011-pelaksanaan-tanggung-jawab-sosial-dan-lingkungan-perusahaan",
+    "perda-2012-012-perubahan-kedua-atas-peraturan-daerah-provinsi-daerah-tingkat-i",
+    "perda-2012-013-perseroan-terbatas-penjamin-kredit-daerah-provinsi-kalimantan-tengah",
+    "perda-2012-015-pengelolaan-pertambangan-mineral-dan-batubara-yang-berkelanjutan-dan",
+    "perda-2013-001-pengembangan-ekonomi-kreatif-provinsi-kalimantan-tengah",
+    "perda-2013-003-penyertaan-modal-daerah-pada-perseroan-terbatas-penjaminan-kredit",
+    "perda-2013-004-tata-cara-tuntutan-ganti-keruigian-daerah",
+    "perda-2013-007-pencabutan-peraturan-daerah-provinsi-kalimantan-tengah-nomor-14-tahun",
+    "perda-2013-014-perubahan-atas-peraturan-daerah-provinsi-kalimantan-tengah-nomor-7",
+    "perda-2014-004-pengarusutamaan-gender-dalam-pembangunan-daerah-di-provinsi",
+    "perda-2014-006-perubahan-ketiga-atas-peraturan-daerah-provinsi-daerah-tingkat-i",
+    "perda-2015-004-pelayanan-penyelenggaraan-embarkasi-debarkasi-haji-antara-unit",
+    "perda-2015-006-perubahan-atas-peraturan-daerah-provinsi-kalimantan-tengah-nomor-13",
+    "perda-2015-008-lalu-lintas-dan-angkutan-sungai-yang-melintasi-jembatan-bentang",
+    "perda-2017-004-hak-keuangan-dan-administratif-pimpinan-dan-anggota-dewan-perwakilan",
+    "perda-2018-001-perubahan-atas-peraturan-daerah-provinsi-kalimantan-tengah-nomor-4",
+    "perda-2019-002-sistem-penyelenggaraan-kesehatan",
+    "perda-2019-009-perubahan-keempat-atas-peraturan-daerah-provinsi-daerah-tingkat-i",
+    "perda-2020-001-pengendalian-kebakaran-lahan",
+    "perda-2021-003-pencabutan-peraturan-daerah-provinsi-kalimatan-tengah-nomor-4-tahun",
+    "perda-2021-004-pengelolaan-barang-milik-daerah",
+    "perda-2022-002-penyelenggaraan-administrasi-kependudukan",
+    "perda-2022-003-pembinaan-bahasa-indonesia-dan-pelestarian-bahasa-dan-satsra-daerah",
+    "perda-2023-003-fasilitasi-pencegahan-dan-pemberantasan-penyalahgunaan-dan-peredaran",
+    "perda-2024-005-perubahan-atas-peraturan-daerah-provinsi-kalimantan-tengah-nomor-2",
+    "perda-2025-001-perlindungan-dan-pemberdayaan-petani-nelayan-dan-pembudidaya-ikan",
+    "perda-2025-002-perlindungan-lahan-pertanian-pangan-berkelanjutan"
+   ],
+   "sha256": "a04504bcbd483bc6422e22526a24489ec8568c37288c1fad3ea869f0b5570d94"
+  }
+ },
+ "schema": 1
+}
